@@ -8,13 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Big Data
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
-  feedburner : nil
+  name : Lars Jellema
+  github : Lucus16
 
 production_url : http://kbroman.github.io/simple_site
 
@@ -25,7 +22,7 @@ markdown: kramdown
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
-  version : 0.3.0
+  version : 0.1.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -49,7 +46,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://kbroman.org/simple_site
+  BASE_PATH : https://lucus16.github.io/bigdata
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

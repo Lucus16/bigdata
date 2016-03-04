@@ -13,7 +13,7 @@ author :
   name : Lars Jellema
   github : Lucus16
 
-production_url : http://kbroman.github.io/simple_site
+production_url : https://lucus16.github.io/bigdata
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
